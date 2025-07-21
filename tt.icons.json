@@ -3,28 +3,8 @@
   "description": "收集一些自己脚本用到的图标",
   "icons": [
     {
-      "name": "yig.png",
-      "url": "https://raw.githubusercontent.com/coco-coc/PicUtil/main/icon/yig.png"
-    },
-    {
-      "name": "酷我音乐.png",
-      "url": "https://raw.githubusercontent.com/coco-coc/PicUtil/main/icon/酷我音乐.png"
-    },
-    {
-      "name": "酷狗音乐.png",
-      "url": "https://raw.githubusercontent.com/coco-coc/PicUtil/main/icon/酷狗音乐.png"
-    },
-    {
-      "name": "xg.png",
-      "url": "https://raw.githubusercontent.com/coco-coc/PicUtil/main/icon/xg.png"
-    },
-    {
-      "name": "新年图.png",
-      "url": "https://raw.githubusercontent.com/coco-coc/PicUtil/main/icon/新年图.png"
-    },
-    {
-      "name": "kyj.png",
-      "url": "https://raw.githubusercontent.com/coco-coc/PicUtil/main/icon/kyj.png"
+      "name": "QQ.png",
+      "url": "https://raw.githubusercontent.com/coco-coc/PicUtil/main/icon/QQ.png"
     }
   ]
 }
